@@ -8,7 +8,7 @@
 </p>
 - 🔭 I've currently graduated from University of Liverpool and obtained my Bachelor's degree in Computer Science<br />
 - 📚 I’m currently learning Study Software Systems Engineering<br />
-- 👯 I’m looking to collaborate on High-tech Internet Company to start a software development/tester internship / full-time job<br />
+<!-- - 👯 I’m looking to collaborate on High-tech Internet Company to start a software development/tester internship / full-time job<br /> -->
 - 🤔 I’m looking for help with improvement on interview & algorithm & project experiences<br />
 - 💬 Ask me about anything, always happy to hear from you~<br />
 - 📫 How to reach me: JasonLuuk@outlook.com / ucablue@ucl.ac.uk <br />
