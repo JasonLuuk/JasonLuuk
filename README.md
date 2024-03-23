@@ -17,7 +17,7 @@
 - 🤔 I’m looking for help with improvement on interview & algorithm & project experiences<br />
 - 💬 Ask me about anything, always happy to hear from you~<br />
 - 📫 How to reach me: <a href="mailto:JasonLuuk@outlook.com">JasonLuuk@outlook.com</a> / <a href="mailto:ucablue@ucl.ac.u">ucablue@ucl.ac.uk</a> <br />
-- ⚡ Fun fact: Traveling & EDC Lover, Outdoor Enthusiasts, Jack of all trades, EX FPS Genius(PRO), Live Streamer<br />
+- ⚡ Fun fact: Traveling & EDC Lover, Outdoor Enthusiasts, Jack of all trades, EX FPS Genius(PRO), Live Streamer, Film Ac░░░░, Dra░░<br />
   <table>
     <tr>
 <!--       <td> -->
