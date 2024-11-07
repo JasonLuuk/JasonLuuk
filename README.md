@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center">
   <a href="https://github.com/JasonLuuk">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JasonLuuk&theme=dark&hide_border=true&stroke=f53b3b"/>
+<!-- <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JasonLuuk&theme=dark&hide_border=true&stroke=f53b3b"/> -->
 </a> 
 </p>
 </p>
